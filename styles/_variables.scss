@@ -1,0 +1,15 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+
+// Bootstrap overrides
+// -------------------
+$body-bg: $gray-200;
+$primary: #ee4266;
+$secondary: #662e9b;
+
+$theme-colors: (
+  "primary": $primary,
+);
+
+// App variables
+// -------------
