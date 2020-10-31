@@ -1,7 +1,7 @@
-import { ApolloProvider } from "@apollo/client";
-import apolloClient from "../src/config/apolloClient";
-import { AppProps } from "next/app";
-import "../styles/styles.scss";
+import { ApolloProvider } from '@apollo/client';
+import apolloClient from '../src/config/apollo-client';
+import { AppProps } from 'next/app';
+import '../styles/styles.scss';
 
 function App({ Component, pageProps }: AppProps) {
   return (
@@ -12,4 +12,3 @@ function App({ Component, pageProps }: AppProps) {
 }
 
 export default App;
-
