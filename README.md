@@ -1,18 +1,29 @@
 # Nextrapi Client
 
+## Installation
+
+```sh
+yarn
+```
+
 ## Commands
 
-`yarn dev`
-  Starts the development server.
+Starts the development server.
+```sh
+yarn dev
+```
 
-`yarn build`
-  Builds the app for production.
+Builds the app for production.
+```sh
+yarn build
+```
 
-`yarn start`
-  Runs the built app in production mode.
+Runs the built app in production mode.
+```sh
+yarn start
+```
+## Local development
 
-  ## Local development
+## Environments
 
-  ## Environments
-
-  `.env.example`
+`.env.example`
